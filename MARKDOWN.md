@@ -1,0 +1,6 @@
+<h1> Sistema de Cadrasto de jogos </h1>
+> status de projeto de desenvolvimen 
+para rodar esse projeto na sua maquina, por favor digitar:
+...
+npm install react
+...
